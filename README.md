@@ -1,2 +1,3 @@
-# hello-world
-Hello, world!
+# Hello, world
+
+This is just a manditory :kappa: "hello world" repository. 
